@@ -14,7 +14,7 @@
 ### 🌟 Plataforma Web Corporativa, Arquitectura Jamstack & Motor de Cotizaciones Inteligente
 **Desarrollado y Posicionado por Luis Miguel Pérez Iglesias & Óscar Vásquez**
 
-[🌐 Visitar Sitio Web Oficial](https://lonetsolutions.com/) • [🚀 Probar Demo Sandbox en Vivo](https://lonetsolutions.com/demo/) • [💼 Solicitar Cotización](https://lonetsolutions.com/#contacto) • [📑 Política de Datos](https://lonetsolutions.com/politica-de-tratamiento-de-datos.html)
+[🌐 Visitar Sitio Web Oficial](https://lonetsolutions.com/) • [🚀 Panel Demo Interactivo](https://lonetsolutions.com/demo/) • [📰 Hemeroteca Demo](https://lonetsolutions.com/demo/noticias.html) • [🏫 Portal Escolar Demo](https://lonetsolutions.com/demo/portal.html) • [💼 Solicitar Cotización](https://lonetsolutions.com/#contacto)
 
 </div>
 
@@ -76,8 +76,11 @@
 * **GEO (*Generative Engine Optimization*):** Archivo [`llms.txt`](https://lonetsolutions.com/llms.txt) con documentación estructurada para motores de IA como Gemini, Claude, ChatGPT y Perplexity.
 
 ### 6. 🎮 Entorno Demo Interactivo en Vivo (`/demo/`)
-* **Sandbox en Producción:** Simulador editorial client-side completo preinstalado en [https://lonetsolutions.com/demo/](https://lonetsolutions.com/demo/).
-* **4 Roles de Acceso en 1 Clic:** Super Admin, Administrador, Docente y Estudiante para probar flujos de creación, publicación, Modo Pánico y auditoría histórica sin riesgo de alterar datos reales.
+* **Suite Demo Completa en Sandbox:**
+  1. **Panel Editorial Administrativo:** [https://lonetsolutions.com/demo/](https://lonetsolutions.com/demo/) (con 4 roles de acceso rápido en 1 clic: Super Admin, Administrador, Docente y Estudiante).
+  2. **Hemeroteca Institucional Interactiva:** [https://lonetsolutions.com/demo/noticias.html](https://lonetsolutions.com/demo/noticias.html) (sincronizada en tiempo real con las publicaciones del panel, filtros y buscador predictivo).
+  3. **Portal Web Institucional Demo:** [https://lonetsolutions.com/demo/portal.html](https://lonetsolutions.com/demo/portal.html) (noticias de portada, cintillo breaking news, reproductor del himno nietista y ventanilla PQRS interactiva).
+* **Aislamiento Total:** Todo opera en el `localStorage` del navegador con botón para **Restablecer Datos Demo**, permitiendo que prospectos y directivos evalúen la solución con cero riesgo para datos reales.
 
 ---
 
