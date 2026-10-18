@@ -79,8 +79,11 @@
 * **Suite Demo Completa en Sandbox:**
   1. **Panel Editorial Administrativo:** [https://lonetsolutions.com/demo/](https://lonetsolutions.com/demo/) (con 4 roles de acceso rápido en 1 clic: Super Admin, Administrador, Docente y Estudiante).
   2. **Hemeroteca Institucional Interactiva:** [https://lonetsolutions.com/demo/noticias.html](https://lonetsolutions.com/demo/noticias.html) (sincronizada en tiempo real con las publicaciones del panel, filtros y buscador predictivo).
-  3. **Portal Web Institucional Demo:** [https://lonetsolutions.com/demo/portal.html](https://lonetsolutions.com/demo/portal.html) (noticias de portada, cintillo breaking news, reproductor del himno nietista y ventanilla PQRS interactiva).
+  3. **Portal Web Institucional Demo:** [https://lonetsolutions.com/demo/portal.html](https://lonetsolutions.com/demo/portal.html) (noticias de portada, cintillo breaking news, reproductor de himno institucional y ventanilla PQRS interactiva).
+* **Rebranding Ficticio Educativo:** Entorno ambientado con identidad simulada ("Colegio Siglo XXI"), resguardando la privacidad de clientes reales y permitiendo pruebas libres.
+* **Soporte Nativo de Modo Oscuro:** Integración de conmutador de tema claro/oscuro en todas las vistas de la demo y el portal.
 * **Aislamiento Total:** Todo opera en el `localStorage` del navegador con botón para **Restablecer Datos Demo**, permitiendo que prospectos y directivos evalúen la solución con cero riesgo para datos reales.
+* **Protección de Código Fuente:** Compilación de producción con Terser (3 pasadas de compresión sin comentarios) y DOM HTML libre de comentarios de desarrollo.
 
 ---
 
